@@ -1,0 +1,3 @@
+# Dataset generation stage — no external deps needed beyond stdlib.
+# Training/eval stage requirements (peft, transformers, trl, etc.) will be
+# added in requirements-train.txt in a later commit.
